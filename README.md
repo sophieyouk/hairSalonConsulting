@@ -1,2 +1,1 @@
-# hairSalonConsulting
-[Statistical Consulting]
+# Analysis of Hair Salon Data

@@ -4,3 +4,7 @@ The client has phone call data collected from hair salons and barber shops in Se
 
 ## Introduction
 Korea Master Beautician Association promotes technology improvement and conducts educational and public relations projects for the development of the Korean beauty industry. My client has phone call data collected from hair salons and barber shops in Seoul through the association. The data have information of demographics and daily phone calls from September 1st to 30th, 2019. The main question is how the phone calls are related to day, gender, and location.
+
+## Data
+Since the data were collected in Korean, I translated them to English. Phone calls less than 5 were counted as just 5. The original data had district and county information of callers. Since the counties in Seoul are very small, I decided to focus on the district information only. After omitting the county data, the number of calls in the same district were counted separately even though all of the other demographics were identical. Hence, I combined the number of calls based on the
+district. After performing all these steps, there were 7,936 observations out of 21,317 left.

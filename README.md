@@ -8,3 +8,10 @@ Korea Master Beautician Association promotes technology improvement and conducts
 ## Data
 Since the data were collected in Korean, I translated them to English. Phone calls less than 5 were counted as just 5. The original data had district and county information of callers. Since the counties in Seoul are very small, I decided to focus on the district information only. After omitting the county data, the number of calls in the same district were counted separately even though all of the other demographics were identical. Hence, I combined the number of calls based on the
 district. After performing all these steps, there were 7,936 observations out of 21,317 left.
+
+## Analysis
+
+
+## Conclusion
+Regardless of day, age and gender, three districts—Gangnam, Seocho, and Jung—had the top 3 phone calls among 25 districts in Seoul (Figure 2, 4 and 7). Also, regardless of district and age, people tended to make a phone call to hair salons or barber shops on Tuesday at most (Figure 2 and 3). Overall, women made more phone calls to salons regardless of day and location. However, teenage boys tended make more than twice calls than girls. Based on this research, the results may
+help to define the target market using the demographics such as age, gender, district, or day.
